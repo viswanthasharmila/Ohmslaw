@@ -1,0 +1,6 @@
+V = float(input("Enter voltage: "))
+I = float(input("Enter current: "))
+
+P = V * I
+
+print("Power =", P, "Watts")
